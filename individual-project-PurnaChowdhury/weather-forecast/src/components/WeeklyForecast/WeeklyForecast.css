@@ -1,0 +1,74 @@
+.parameter-row {
+    margin-top: 15px;
+}
+ 
+.parameter-label {
+    font-size: large;
+}
+ 
+ 
+.parameter-value {
+    font-size: large;
+}
+ 
+ 
+.theWeeklyTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+ 
+.theWeeklyTable th, .theWeeklyTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    color: white;
+}
+.theWeeklyDetails {
+    background: linear-gradient(to right, #0077cc, #00aaff);
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px 20px;
+}
+
+.icon-small {
+    width: 40px;
+    margin: 5px 0;
+}
+ 
+.theCurrentDay {
+    font-weight: 600;
+    color: white;
+}
+   
+.theTemperature {
+    color: white;
+} 
+ 
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+ 
+ 
+.Forecast-Details {
+    color: white;
+}
+ 
+.temperature1 {
+    color: white;
+}
+ 
+ 
+.city {
+    color: white;
+}
+ 
+.weather-description {
+    color: white;
+    font-size: 1.5rem;
+}
+ 

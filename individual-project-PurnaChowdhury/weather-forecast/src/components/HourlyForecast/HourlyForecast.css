@@ -1,0 +1,52 @@
+.hourly-forecast-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+   .hourly-forecast-table th,
+  .hourly-forecast-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+   .hourly-item {
+    background: linear-gradient(to right, #0077cc, #00aaff);
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px 20px;
+  }
+   .icon-small1 {
+    width: 40px;
+    margin: 5px 0;
+    margin-left:55rem;
+  }
+   .time {
+    font-weight: 600;
+    color: white;
+  }
+   .temperature2 {
+    color: white;
+  }
+ 
+   .title {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+ 
+  .title6 {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+ 
+  .hour {
+    color: white;
+  }
+ 
+  .hourly-item{
+    display:flex;
+    flex-direction: row;
+   
+  }
+ 
